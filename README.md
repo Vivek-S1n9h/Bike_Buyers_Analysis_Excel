@@ -18,6 +18,13 @@ The dataset used for this analysis project is the Bike Buyers dataset, which con
 10. **BikeType**: Type of bike purchased by the customer.
 11. **PurchasePrice**: Price of the purchased bike.
 
+## Orginal dataset
+![orignal_data](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/51a27261-223f-4692-bda2-e5f125450bd2)
+
+## Analysis
+![Chart_2](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/4e1c562e-afba-4ba9-8dbc-828c05111c9c)
+![Chart_1](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/a215e4b3-3f66-41f7-9c9c-9eef67dee8b4)
+
 ## Tools Used
 
 This analysis project will be conducted exclusively using Microsoft Excel. Excel provides a range of features and functions that allow for data manipulation, analysis, and visualization.

@@ -1,6 +1,3 @@
-Certainly! I've fixed the Markdown file:
-
-```markdown
 # Bike Buyers Analysis Project
 
 This project aims to analyze the Bike Buyers dataset using Microsoft Excel. The dataset contains information about customers who have purchased bikes, including their demographic details and purchasing behavior. The project will involve exploring, summarizing, and visualizing the data to gain insights into the bike buyers' characteristics and preferences.
@@ -78,5 +75,4 @@ These recommendations are based on the observed trends and can be further refine
 ## Acknowledgement
 A great thanks to [AlexTheAnalyst](https://github.com/AlexTheAnalyst) for providing the dataset and teaching on [Youtube](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=27) how to complete this project.
 
-Note: Ensure that you have Microsoft Excel installed on your computer to run the analysis and explore the dataset.
-```
+Note: Make sure you have Microsoft Excel installed on your computer to run the analysis and explore the dataset.

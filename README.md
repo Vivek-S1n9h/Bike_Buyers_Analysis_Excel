@@ -1,3 +1,6 @@
+Certainly! I've fixed the Markdown file:
+
+```markdown
 # Bike Buyers Analysis Project
 
 This project aims to analyze the Bike Buyers dataset using Microsoft Excel. The dataset contains information about customers who have purchased bikes, including their demographic details and purchasing behavior. The project will involve exploring, summarizing, and visualizing the data to gain insights into the bike buyers' characteristics and preferences.
@@ -20,26 +23,23 @@ The dataset used for this analysis project is the Bike Buyers dataset, which con
 
 ## Tools Used
 
-This analysis project will be conducted exclusively using Microsoft Excel. 
-Excel provides a range of features and functions that allow for data manipulation, analysis, and visualization.
+This analysis project will be conducted exclusively using Microsoft Excel. Excel provides a range of features and functions that allow for data manipulation, analysis, and visualization.
 
-## Orginal dataset
-![orignal_data](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/51a27261-223f-4692-bda2-e5f125450bd2)
+## Original dataset
+![original_data](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/51a27261-223f-4692-bda2-e5f125450bd2)
 
 ## Cleaned dataset
 ![cleaned_dataset](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/34aafd97-84b7-4215-b957-40f5ae0a1ff8)
 
-
 ## Analysis
 ### Pivot table with analyzed data
-![pivot_Chart_1](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/c0658e5a-179d-4255-9035-4ef9092499be)
-![pivot_Chart_2](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/fb3a582f-84f1-44ec-8e9a-80fbb3c6db96)
-![pivot_Chart_3](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/bbc5d132-1f27-4209-889e-3884db8dd9e8)
+![pivot_chart_1](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/c0658e5a-179d-4255-9035-4ef9092499be)
+![pivot_chart_2](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/fb3a582f-84f1-44ec-8e9a-80fbb3c6db96)
+![pivot_chart_3](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/bbc5d132-1f27-4209-889e-3884db8dd9e8)
 
 ### Using Slicer for dashboard
-
-![Chart_1](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/a215e4b3-3f66-41f7-9c9c-9eef67dee8b4)
-![Chart_2](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/4e1c562e-afba-4ba9-8dbc-828c05111c9c)
+![chart_1](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/a215e4b3-3f66-41f7-9c9c-9eef67dee8b4)
+![chart_2](https://github.com/Vivek-S1n9h/Excel_Projects/assets/121023465/4e1c562e-afba-4ba9-8dbc-828c05111c9c)
 
 **Conclusions:**
 
@@ -75,7 +75,8 @@ Excel provides a range of features and functions that allow for data manipulatio
 
 These recommendations are based on the observed trends and can be further refined with additional market research and customer feedback.
 
-## Acknowedgement
-A great thanks to [AlexTheAnalyst](https://github.com/AlexTheAnalyst) for providing the dataset and teaching on [Youtube](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=27) how to complete this project
+## Acknowledgement
+A great thanks to [AlexTheAnalyst](https://github.com/AlexTheAnalyst) for providing the dataset and teaching on [Youtube](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=27) how to complete this project.
 
 Note: Ensure that you have Microsoft Excel installed on your computer to run the analysis and explore the dataset.
+```
